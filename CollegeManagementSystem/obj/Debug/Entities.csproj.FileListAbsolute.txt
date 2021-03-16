@@ -1,0 +1,7 @@
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.pdb

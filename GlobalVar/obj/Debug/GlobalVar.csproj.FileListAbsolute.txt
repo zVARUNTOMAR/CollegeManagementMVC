@@ -1,0 +1,7 @@
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\obj\Debug\GlobalVar.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\obj\Debug\GlobalVar.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\bin\Debug\GlobalVar.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\bin\Debug\GlobalVar.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\bin\Debug\GlobalVar.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\obj\Debug\GlobalVar.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\GlobalVar\obj\Debug\GlobalVar.pdb

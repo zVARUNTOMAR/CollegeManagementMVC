@@ -1,0 +1,15 @@
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\CMSBussinessLayer.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\CMSBussinessLayer.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\CMSBussinessLayer.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\CollegeManagementSystem.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\Exceptions.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\CollegeManagementSystem.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\Exceptions.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\bin\Debug\Exceptions.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\obj\Debug\CMSBussinessLayer.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\obj\Debug\CMSBussinessLayer.csproj.ResolveComReference.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\obj\Debug\CMSBussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\obj\Debug\CMSBussinessLayer.csproj.CopyComplete
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\obj\Debug\CMSBussinessLayer.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSBussinessLayer\obj\Debug\CMSBussinessLayer.pdb

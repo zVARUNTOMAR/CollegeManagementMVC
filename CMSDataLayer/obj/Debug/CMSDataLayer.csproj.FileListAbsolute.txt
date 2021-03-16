@@ -1,0 +1,17 @@
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\obj\Debug\CMSDataLayer.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\obj\Debug\CMSDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CMSDataLayer.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CMSDataLayer.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CMSDataLayer.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CMSBussinessLayer.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CollegeManagementSystem.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\Exceptions.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CMSBussinessLayer.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CMSBussinessLayer.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\CollegeManagementSystem.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\Exceptions.pdb
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\bin\Debug\Exceptions.dll.config
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\obj\Debug\CMSDataLayer.csproj.CopyComplete
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\obj\Debug\CMSDataLayer.dll
+C:\Users\R3CK3R\source\repos\CollegeManagementSystem\CMSDataLayer\obj\Debug\CMSDataLayer.pdb
